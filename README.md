@@ -1,2 +1,1 @@
-# Bootstrap4
-Bootstrap 4 Course on coursera
+This is course from coursera which gives good and in depth knowledge of all css main components which are used more frequently while making UI of any website. Apart from this it also gives knowledge of using bootstrap js components.
